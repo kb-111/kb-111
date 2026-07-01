@@ -44,7 +44,7 @@ I am passionate about building intelligent systems and integrating them with mod
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kb-111&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kb-111)](https://github.com/stats-organization/github-stats-extended)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=tokyonight)
 <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,mysql,git,github,vscode,pytorch"/>
 
