@@ -19,25 +19,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Basabdutta;Computer+Science+Student;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
-### 🧮 What I Do
-- **Artificial Intelligence & Machine Learning:** Developing predictive models, Deep Learning architectures, and NLP solutions.
-- **Data Science:** Data wrangling, exploratory data analysis (EDA), and data visualization.
-- **Web Development:** Creating responsive front-ends and robust back-ends to deploy AI models.
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C,Java, JavaScript, SQL |
-| **AI / Machine Learning** | TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy |
-| **Generative AI** | LLMs, Prompt Engineering, LangChain, OpenAI API |
-| **Data Visualization** | Matplotlib, Seaborn , Plotly |
-| **Web Development** | HTML5, CSS3, Flask, FastAPI ,Jinja2 , Bootstrap|
-| **Tools & Databases** | Git, GitHub, MongoDB, MySQL, Jupyter Notebooks |
-<img src="https://skillicons.dev/icons?i=python,java,c,flask,mysql,git,github,vscode,pytorch"/>
----
 <div align="center">
 
   ## 🧮 What I Do
@@ -48,9 +30,11 @@ Here are some ideas to get you started:
 
   **Web Development** : Creating responsive front-ends and robust back-ends to deploy AI models
 
+ <p align="center">
   <br />
-  ---
+  ♦ &nbsp; ♦ &nbsp; ♦
   <br />
+</p>
 
   ## 🛠️ Tech Stack & Tools
 
