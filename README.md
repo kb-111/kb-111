@@ -40,10 +40,19 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bootstrap,pytorch,flask,fastapi,mysql,mongodb,git,github,vscode,sublime" />
+      <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bootstrap,pytorch,flask,fastapi,mysql,mongodb,git,github,vscode" />
     </a>
   </p>
-
+<p align="center">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <br />
+    <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white&color=%234c72b0" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+    <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  </p>
 </div>
 
 
