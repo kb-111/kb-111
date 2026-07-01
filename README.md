@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Basabdutta;Computer+Science+Student;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=kb-111&color=blue)
+
 
 <div align="center">
 
@@ -72,4 +74,3 @@ Here are some ideas to get you started:
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=kb-111&color=blue)
