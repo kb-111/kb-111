@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kb-111)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=tokyonight&cache_seconds=1800)
-![kb-111's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=radical)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=kb-111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
