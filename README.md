@@ -39,15 +39,18 @@ I am passionate about building intelligent systems and integrating them with mod
 | **Data Visualization** | Matplotlib, Seaborn , Plotly |
 | **Web Development** | HTML5, CSS3, Flask, FastAPI ,Jinja2 , Bootstrap|
 | **Tools & Databases** | Git, GitHub, MongoDB, MySQL, Jupyter Notebooks |
-
+<img src="https://skillicons.dev/icons?i=python,java,c,flask,mysql,git,github,vscode,pytorch"/>
 ---
 
 ### 📈 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kb-111)](https://github.com/stats-organization/github-stats-extended)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=tokyonight)
-<img src="https://skillicons.dev/icons?i=python,java,cpp,flask,mysql,git,github,vscode,pytorch"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kb-111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kb-111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Basabdutta;Computer+Science+Student;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=kb-111&color=blue)
