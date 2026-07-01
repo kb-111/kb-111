@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Basabdutta 👋 
+
 <p align="center">
   <img src="github-header-banner.png" width="100%">
 </p>
+
 ### 🚀 AI/ML Engineer & Web Developer
 I am passionate about building intelligent systems and integrating them with modern web technologies. I love turning data into insights and models into scalable applications.
 
@@ -43,7 +44,8 @@ I am passionate about building intelligent systems and integrating them with mod
 
 ### 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kb-111&show_icons=true&theme=radical&version=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kb-111&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=tokyonight)
 <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,mysql,git,github,vscode,pytorch"/>
 
 ---
