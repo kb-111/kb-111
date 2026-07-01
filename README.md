@@ -50,6 +50,21 @@ Here are some ideas to get you started:
   ### 📈 GitHub Stats
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kb-111&show_icons=true&theme=radical" alt="kb-111's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=radical" alt="Top Languages" height="180" />
+
+</div>
+
+<div align="center">
+
+  ### 🏆 GitHub Profile Summary
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kb-111&theme=radical" alt="kb-111's Profile Details" />
+
+  <br />
+
+  ### 📈 Activity Stats
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kb-111&show_icons=true&theme=radical" alt="kb-111's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=radical" alt="kb-111's Top Languages" height="180" />
 
 </div>
