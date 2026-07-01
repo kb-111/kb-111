@@ -49,4 +49,5 @@ I am passionate about building intelligent systems and integrating them with mod
 <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,mysql,git,github,vscode,pytorch"/>
 
 ---
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kb-111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://komarev.com/ghpvc/?username=kb-111&color=blue)
