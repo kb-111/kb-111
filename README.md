@@ -48,6 +48,19 @@ Here are some ideas to get you started:
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=kb-111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
 
+  ### 🏆 GitHub Trophies
+  
+  [![kb-111's Trophies](https://github-profile-trophy.vercel.app/?username=kb-111&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <br />
+
+  ### 📈 GitHub Stats
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kb-111&show_icons=true&theme=radical" alt="kb-111's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=radical" alt="kb-111's Top Languages" height="180" />
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=kb-111&color=blue)
