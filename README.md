@@ -17,10 +17,7 @@ Here are some ideas to get you started:
   <img src="github-header-banner.png" width="100%">
 </p>
 
-### 🚀 AI/ML Engineer & Web Developer
-I am passionate about building intelligent systems and integrating them with modern web technologies. I love turning data into insights and models into scalable applications.
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Basabdutta;Computer+Science+Student;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 ### 🧮 What I Do
 - **Artificial Intelligence & Machine Learning:** Developing predictive models, Deep Learning architectures, and NLP solutions.
@@ -51,6 +48,6 @@ I am passionate about building intelligent systems and integrating them with mod
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=kb-111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Basabdutta;Computer+Science+Student;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+
 
 ![](https://komarev.com/ghpvc/?username=kb-111&color=blue)
