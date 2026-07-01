@@ -49,3 +49,4 @@ I am passionate about building intelligent systems and integrating them with mod
 <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,mysql,git,github,vscode,pytorch"/>
 
 ---
+![](https://komarev.com/ghpvc/?username=kb-111&color=blue)
