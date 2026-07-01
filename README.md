@@ -38,21 +38,34 @@ Here are some ideas to get you started:
 | **Tools & Databases** | Git, GitHub, MongoDB, MySQL, Jupyter Notebooks |
 <img src="https://skillicons.dev/icons?i=python,java,c,flask,mysql,git,github,vscode,pytorch"/>
 ---
-
 <div align="center">
 
-  ### 🏆 GitHub Trophies
+  ## 🧮 What I Do
   
-  [![kb-111's Trophies](https://github-profile-trophy.vercel.app/?username=kb-111&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  **Artificial Intelligence & Machine Learning**
+  <p>Developing predictive models, Deep Learning architectures, and NLP solutions.</p>
+
+  **Data Science**
+  <p>Data wrangling, exploratory data analysis (EDA), and data visualization.</p>
+
+  **Web Development**
+  <p>Creating responsive front-ends and robust back-ends to deploy AI models.</p>
 
   <br />
+  ---
+  <br />
 
-  ### 📈 GitHub Stats
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kb-111&show_icons=true&theme=radical" alt="kb-111's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kb-111&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  ## 🛠️ Tech Stack & Tools
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bootstrap,pytorch,flask,fastapi,mysql,mongodb,git,github,vscode,sublime" />
+    </a>
+  </p>
 
 </div>
+
+
 
 <div align="center">
 
