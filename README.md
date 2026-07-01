@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Basabdutta 👋 
-
+<p align="center">
+  <img src="github-header-banner.png" width="100%">
+</p>
 ### 🚀 AI/ML Engineer & Web Developer
 I am passionate about building intelligent systems and integrating them with modern web technologies. I love turning data into insights and models into scalable applications.
 
