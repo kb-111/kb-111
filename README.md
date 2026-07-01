@@ -42,14 +42,11 @@ Here are some ideas to get you started:
 
   ## 🧮 What I Do
   
-  **Artificial Intelligence & Machine Learning**
-  <p>Developing predictive models, Deep Learning architectures, and NLP solutions.</p>
+  **Artificial Intelligence & Machine Learning** : Developing predictive models, Deep Learning architectures, and NLP 
 
-  **Data Science**
-  <p>Data wrangling, exploratory data analysis (EDA), and data visualization.</p>
+  **Data Science** : Data wrangling, exploratory data analysis (EDA), and data visualization
 
-  **Web Development**
-  <p>Creating responsive front-ends and robust back-ends to deploy AI models.</p>
+  **Web Development** : Creating responsive front-ends and robust back-ends to deploy AI models
 
   <br />
   ---
